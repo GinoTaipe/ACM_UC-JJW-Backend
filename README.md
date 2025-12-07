@@ -9,6 +9,6 @@ uv run uvicorn app.main:app --port 8001
 
 Autores:  
 - Jeampier Reyes  
-- Walter Cabrera  
+- Walter Cabrera   
 - Jarem Buendia
 
